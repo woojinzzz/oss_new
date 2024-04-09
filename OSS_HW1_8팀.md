@@ -16,7 +16,7 @@
 1) 2D orthographic views and drafting (2D 정사영 보기 및 도면 작성)
 
 2) Solid and Parametric modeling (3D 모델링)
-
+![1](https://github.com/woojinzzz/oss_new/tree/main/images)
 ﻿Solid and parametric modeling은 3D 디자인 및 모델링의 주요 기술 중 하나로, 복잡한 형상의 모델을 만들고 관리하는 데 필수적인 도구이며 소프트웨어에서 가장 널리 사용되는 기술 중 하나입니다.
 이는 앞선 도면 작성 단계에서 설계된 임의의 도면들을 바탕으로 3차원 공간에서 모델링 작성을 수행합니다. 이 과정에서 곡면, 모소리, 홈, 돌출, 텍스처링 등과 같은 세부 사항을 추가하여 모델을 실제와 유사하게 정교화하여 2차원의 도면을 3차원의 물체로 구현해 낼 수 있습니다. 
 다시 말해, Solid modeling은 실제 물체와 유사한 형태의 3D 모델을 생성합니다. 이 modeling 기능을 통해, 설계한 제품의 외부 형상과 더불어, 내부 구조까지 정확하게 구현할 수 있습니다. 
